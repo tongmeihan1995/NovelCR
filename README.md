@@ -19,10 +19,11 @@ Chinese NovelCR: [https://huggingface.co/datasets/shuaiwa16/novelCR/tree/main]
 
 ## Overview of NovelCR
 ### Example
-![Alt text](sdfa)
+![An example of NovelCR](NovelCR-example.png)
 
 ### Comparison to existing benchmark
-![Alt text](sdfa)
+<img src="NovelCR-statistic.png" alt="Comparison NovelCR to existing benchmarks" style="width:90%; height:auto;">
+
 
 
 ## Citation
