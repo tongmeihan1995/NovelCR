@@ -17,12 +17,18 @@ NovelCR is now available on Hugging Face
 
 Chinese NovelCR: [https://huggingface.co/datasets/shuaiwa16/novelCR/tree/main]
 
+### Using Huggingface Interface
+```python
+from datasets import load_dataset
+dataset = load_dataset("novelcr")
+```
+
 ## Overview of NovelCR
 ### Example
 ![An example of NovelCR](NovelCR-example.png)
 
 ### Comparison to existing benchmark
-<img src="NovelCR-statistic.png" alt="Comparison NovelCR to existing benchmarks" style="width:90%; height:auto;">
+<img src="statistic.png" alt="Comparison NovelCR to existing benchmarks" style="width:90%; height:auto;">
 
 
 
