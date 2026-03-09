@@ -20,7 +20,7 @@ Chinese NovelCR: [https://huggingface.co/datasets/shuaiwa16/novelCR/tree/main]
 ### Using Huggingface Interface
 ```python
 from datasets import load_dataset
-dataset = load_dataset("novelcr")
+dataset = load_dataset("shuaiwa16/novelCR")
 ```
 
 ## Overview of NovelCR
